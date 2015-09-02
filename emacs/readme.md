@@ -50,3 +50,7 @@ All configuration and files in Git
 # Building
 
 docker build rgardler/emacs .
+
+
+
+
