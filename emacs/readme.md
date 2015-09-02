@@ -7,15 +7,21 @@ with text files of various types.
 
 # Dockerfile
 
-At this point the Dockerfile is really simple, it just installs emacs.
+Install emacs
+
+Add .emacs.el file
+
+Configure emacs using .emacs.el
 
 --
 
 # Slides
 
-FROM rgardler/realjs
+FROM rgardler/revealjs
 
 Means readme.md files are also slide decks
+
+FIXME: provide a command to start the revealjs server
 
 ---
 
