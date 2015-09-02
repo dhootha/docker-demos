@@ -35,7 +35,7 @@ FIXME: provide a command to start the revealjs server
 
 # Running
 
-docker run -it rgardler/emacs
+docker run -it -v $(pwd):/projects rgardler/emacs
 
 ---
 
