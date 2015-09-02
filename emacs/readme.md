@@ -21,6 +21,14 @@ FROM rgardler/revealjs
 
 Means readme.md files are also slide decks
 
+```
+cd /revealjs
+grunt serve &
+http://localhost:8000
+```
+
+## Details
+
 FIXME: provide a command to start the revealjs server
 
 ---
