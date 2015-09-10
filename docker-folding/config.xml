@@ -1,0 +1,9 @@
+<config>
+  <user value="AzureDocker"/>
+  <team value="229423"/>
+  <passkey value=""/>
+
+  <power value="full"/>
+  <gpu value="false"/>
+  <fold-anon value="false"/>
+</config>
