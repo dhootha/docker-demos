@@ -4,3 +4,6 @@ mycert*
 *~
 *\#*
 *.\#*
+
+# Vi files
+*.swp
