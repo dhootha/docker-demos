@@ -8,3 +8,5 @@ docker run –d rgardler/fah
 
 See for more details about the Folding@Home project.
 
+For stats on the use of this container see http://fah-web.stanford.edu/cgi-bin/main.py?qtype=teampage&teamnum=229423
+
